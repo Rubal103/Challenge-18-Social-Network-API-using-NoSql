@@ -36,8 +36,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 ## Getting started
-* use npm init to create a package.json file where you will create some information about the dependencies, script you will use. 
-* run npm i to install all the packages. 
+* use npm init to create a package.json file where you will mention information about the application and dependencies,   scripts you will use. 
+* run npm i to install all the packages and dependencies. 
 * run npm seed to seed all the data. 
 * run npm start
 * use Insomnia to make changes in the data
@@ -97,3 +97,12 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ![alt text](./images/image-13.png)
 
 ## Walkthrough Video: 
+* CRUD operations for users
+https://drive.google.com/file/d/1w7d6HBBGV8fgul49KUMvt97551LHKRfN/view?usp=sharing
+
+* CRUD operations for Thoughts
+https://drive.google.com/file/d/1TjyWmi_bic0dnr8Lwv_zpbu_WCFE-4WO/view?usp=sharing
+
+
+## Github repository
+https://github.com/Rubal103/Challenge-18-Social-Network-API-using-NoSql
